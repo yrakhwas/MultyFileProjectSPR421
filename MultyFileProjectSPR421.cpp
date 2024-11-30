@@ -39,4 +39,5 @@ void Menu()
 int main()
 {
 	Menu();
+	cout << "Bye" << endl;
 }
